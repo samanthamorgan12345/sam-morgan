@@ -6,6 +6,17 @@ h1 {
   text-align: center;
   padding: 50px;
 }
+#weather-app-button {
+  display: block;
+  border: 0px;
+  padding: 15px;
+  margin: auto;
+  background-color: #45503b;
+  border-radius: 40px;
+  width: 125px;
+  text-decoration: none;
+  color: #d09f85;
+}
 h3 {
   text-align: center;
 }
